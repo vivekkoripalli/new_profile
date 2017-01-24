@@ -1,0 +1,16 @@
+.footer {
+   background-color: #333333;
+  margin-bottom: 0;
+  color: #CCCCCC;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-around;
+ }
+
+ .footer li {
+  transition: color 300ms;
+ }
+
+ .footer li:hover {
+     color: yellow;
+ }
